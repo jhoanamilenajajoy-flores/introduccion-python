@@ -70,6 +70,7 @@ for persona in personas:
    print(verbosinterminacion)
    print(personas[persona][terminacion])
    print(persona,verbosinterminacion+personas[persona][terminacion])
+# prueba
 
 
 
